@@ -55,7 +55,7 @@ larrybyrnemusic@gmail.com \
 
 ## Skills
   - Linux
-  - Python/C/Rust/Java/Go/TypeScript
+  - Python/C/Rust/Java/Go
   - Docker/Podman
   - Kubernetes
   - AWS EC2/ECS/Batch/EFS/S3
