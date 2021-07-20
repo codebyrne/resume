@@ -93,6 +93,8 @@ codebyrne on [github](https://github.com/codebyrne)
   - CI/CD
   - SDR
   - GNU Radio
+  - RF Test Equipment
+  - RF propagation
   - Nginx
   - Tomcat
   - PostgreSQL
@@ -103,7 +105,6 @@ codebyrne on [github](https://github.com/codebyrne)
   - SSL/TLS
   - QGIS
   - Cellular WAN
-  - RF propagation
   - OWASP Appsec Framework
   - Nexus OSS
   - LabVIEW
