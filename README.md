@@ -138,4 +138,4 @@ codebyrne on [github](https://github.com/codebyrne)
   - Designed a configuration tool and custom PC-DIO-24 cable for a programmable parallel data switch used in BERT testing of a signal processor.
 
 ## Other
-  - I am legally blind due to Leber's Hereditary Optic Neuropathy (LHON), which affected my eyesight in 1999. I am not likely to mention this again.
+  - I am legally blind due to Leber's Hereditary Optic Neuropathy (LHON), which affected my eyesight in 1999. This will probably be the only time I mention it.
