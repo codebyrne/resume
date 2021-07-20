@@ -71,15 +71,15 @@ codebyrne on [github](https://github.com/codebyrne)
   - Python for Security Professionals (Udemy)
   - Intro to Malware Analysis and Reverse Engineering (Cybrary)
   - Penetration Testing and Ethical Hacking (Cybrary)
-  - Security + (Course Only)
-  - Linux + (Course Only)
+  - Security+ (Course Only)
+  - Linux+ (Course Only)
   - A+ (Course Only)
   - Associate of Arts in General Studies (cum laude) - August 2007
   - First Place - Hinda Honigman Award for Beethoven Piano Sonatas (2004)
 
 ## Skills
   - Linux
-  - Python/C/Java/Go
+  - Python/C/Java/Go/TypeScript
   - Docker
   - AWS EC2/ECS/Batch/EFS/S3
   - Gitlab
