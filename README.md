@@ -64,6 +64,19 @@ codebyrne on [github](https://github.com/codebyrne)
 ### Freelance Web Developer (1999 - present)
   - Maintained, designed, and coded several web pages for local businesses using WordPress, CSS, and HTML.
 
+## Courses, Certifications, Degrees, and Awards
+  - Offensive Security Certified Professional - OSCP awarded June 2020
+  - Penetration Testing with Kali Linux (PWK)
+  - RF Hacking with SDR (Black Hat 2020)
+  - Python for Security Professionals (Udemy)
+  - Intro to Malware Analysis and Reverse Engineering (Cybrary)
+  - Penetration Testing and Ethical Hacking (Cybrary)
+  - Security + (Course Only)
+  - Linux + (Course Only)
+  - A+ (Course Only)
+  - Associate of Arts in General Studies (cum laude) - August 2007
+  - First Place - Hinda Honigman Award for Beethoven Piano Sonatas (2004)
+
 ## Skills
   - Linux
   - Python/C/Java/Go
@@ -94,19 +107,6 @@ codebyrne on [github](https://github.com/codebyrne)
   - OWASP Appsec Framework
   - Nexus OSS
   - LabVIEW
-
-## Courses, Certifications, Degrees, and Awards
-  - Offensive Security Certified Professional - OSCP awarded June 2020
-  - Penetration Testing with Kali Linux (PWK)
-  - RF Hacking with SDR (Black Hat 2020)
-  - Python for Security Professionals (Udemy)
-  - Intro to Malware Analysis and Reverse Engineering (Cybrary)
-  - Penetration Testing and Ethical Hacking (Cybrary)
-  - Security + (Course Only)
-  - Linux + (Course Only)
-  - A+ (Course Only)
-  - Associate of Arts in General Studies (cum laude) - August 2007
-  - First Place - Hinda Honigman Award for Beethoven Piano Sonatas (2004)
 
 ## Other Work Experience
 
