@@ -1,5 +1,6 @@
 # Larry Byrne, OSCP
 ## Software - Cybersecurity - Systems Engineer
+(443)-995-3532 \
 larrybyrnemusic@gmail.com \
 [codebyrne](https://github.com/codebyrne) on github
 
