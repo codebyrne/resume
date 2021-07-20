@@ -84,7 +84,7 @@ codebyrne on [github](https://github.com/codebyrne)
   - AWS EC2/ECS/Batch/EFS/S3
   - Gitlab
   - C5ISR
-  - CMMI Maturity Level 4 processes
+  - CMMI Level 4 processes
   - DoD Risk Management Framework (DoD RMF)
   - DoD Approved Products List (DoDIN APL)
   - Nessus/NeXpose
