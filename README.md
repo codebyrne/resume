@@ -79,7 +79,7 @@ codebyrne on [github](https://github.com/codebyrne)
 
 ## Skills
   - Linux
-  - Python/C/Java/Go/TypeScript
+  - Python/C/Rust/Java/Go/TypeScript
   - Docker
   - AWS EC2/ECS/Batch/EFS/S3
   - Gitlab
