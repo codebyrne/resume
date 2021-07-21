@@ -92,5 +92,5 @@ larrybyrnemusic@gmail.com \
 ### Secretary – Annapolis Musician’s Fund for Musicians (2015 - present)
   - 501(c)(3) non-profit organization created in 2006 to provide temporary financial relief to professional Annapolis musicians who cannot work due to sickness, injury, or any other circumstance leaving them unable to perform.
   - Chair of the Tim King Scholarship Board, awarding a $5,000 annual scholarship to a local graduate pursuing a four year degree in music.
-  - 2021 Foundation of the Year - Community Foundation of Anne Arundel County (CFAAC)
+  - 2020 Foundation of the Year - Community Foundation of Anne Arundel County (CFAAC)
 
