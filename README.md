@@ -61,7 +61,7 @@ larrybyrnemusic@gmail.com \
   - Kubernetes
   - AWS EC2/ECS/Batch/EFS/S3
   - ESXi/VMware/VirtualBox
-  - Penetration Testing
+  - Pentesting
   - Nagios
   - Gitlab
   - Nessus/NeXpose
