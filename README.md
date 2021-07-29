@@ -13,7 +13,7 @@ larrybyrnemusic@gmail.com \
 ## Work Experience
 
 ### Software Engineer - Alion RFsentry (March 2019 - present)
-  - Part of a small agile team developing an automated RF spectrum monitoring solution.
+  - Managed the installation, configuration, and deployment of eight complete Spectrum Monitoring Systems.
   - Prototyped several process algorithms, including SCPI sensor management, multiple binary protocol parsers, and Python functions to manage I/Q data.
   - Performed full scope penetration testing and vulnerability assessment of both local and cloud servers.
   - Provided software demos including PMR customer reviews, business development, and videos for use at trade shows.
@@ -57,25 +57,25 @@ larrybyrnemusic@gmail.com \
 ## Skills
   - Linux
   - Python/C/Rust/Java/Go
-  - Docker/Podman
-  - Kubernetes
+  - Docker/Podman/Kubernetes
   - AWS EC2/ECS/Batch/EFS/S3
   - ESXi/VMware/VirtualBox
   - Pentesting
-  - Nagios
-  - Gitlab
+  - Nagios XI
+  - Gitlab/Git/SVN
   - Nessus/NeXpose
   - Metasploit
   - Nmap
   - Wireguard/VPN
-  - C5ISR
-  - DevOps/DevSecOps/CI/CD
-  - MVC Architecture
-  - CMMI Level 4 processes
-  - DoD Risk Management Framework (DoD RMF)
   - Software Defined Radio (SDR)/GNU Radio
   - RF Test Equipment
   - RF propagation
+  - C5ISR
+  - DevOps/DevSecOps/CI/CD
+  - MVC Architecture
+  - DoD Risk Management Framework (DoD RMF)
+  - Agile Development
+  - CMMI Level 4 processes
   - Cellular WAN
   - QGIS
   - Nginx
