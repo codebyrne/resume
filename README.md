@@ -60,18 +60,18 @@ larrybyrnemusic@gmail.com \
   - Docker/Podman/Kubernetes
   - AWS EC2/ECS/Batch/EFS/S3
   - ESXi/VMware/VirtualBox
-  - Pentesting
-  - Nagios XI
   - Gitlab/Git/SVN
+  - DevOps/DevSecOps/CI/CD
+  - Pentesting
   - Nessus/NeXpose
+  - Nagios XI
   - Metasploit
   - Nmap
-  - Wireguard/VPN
   - Software Defined Radio (SDR)/GNU Radio
   - RF Test Equipment
   - RF propagation
   - C5ISR
-  - DevOps/DevSecOps/CI/CD
+  - Wireguard/VPN
   - MVC Architecture
   - DoD Risk Management Framework (DoD RMF)
   - Agile Development
