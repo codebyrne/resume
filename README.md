@@ -13,23 +13,25 @@ larrybyrnemusic@gmail.com \
 ## Work Experience
 
 ### Software Engineer - Alion RFsentry (March 2019 - present)
-  - Managed the installation, configuration, and deployment of eight complete Spectrum Monitoring Systems.
-  - Prototyped several process algorithms, including SCPI sensor management, multiple binary protocol parsers, and Python functions to manage I/Q data.
-  - Performed full scope penetration testing and vulnerability assessment of both local and cloud servers.
-  - Provided software demos including PMR customer reviews, business development, and videos for use at trade shows.
-  - Acted as the software team liaison for several sub-task teams.
+  - Managed the installation, configuration, and delivery of complete Spectrum Monitoring Systems.
+  - Prototyped several process algorithms, including SCPI sensor integration, LTE aggregate power Direction Finding,  multiple binary protocol parsers, and Python functions to manage I/Q data.
+  - Performed full scope penetration testing and vulnerability assessment of local and cloud servers.
+  - Provided software demos including 2021 EMSO Tools Symposium, PMR customer reviews, business development, and videos for use at trade shows.
 
 ### Systems Administrator - Alion RESED Software Team (July 2019 - present)
-  - Administered the Alion software team Gitlab DevOps server.
-  - Administered three ESXi servers running a variety of VMs hosting public and internal resources.
-  - Maintained and upgraded Docker deployed services throughout the Alion software team.
-  - Served as the software team liaison to infosec for vulnerability remediation.
-  - Renewed and deployed all in-house TLS certificates for eight critical public facing servers.
+  - Administered the Gitlab DevOps server for the RESED Software Group.
+  - Administered ESXi servers running a variety of VMs hosting public and internal resources.
+  - Deployed DevOps platforms using AWS EC2 and EKS for distributed sub-contractors.
+  - Maintained and upgraded Docker deployed services throughout the RESED software team.
+  - Served as the liaison to infosec for vulnerability remediation, including NIST 800-171 compliance audit. 
+  - Renewed and deployed all in-house SSL certificates for critical public facing servers.
+  - Admin for SVN, WebSVN, and CM Project Shares on Windows Server 2019 (migrated from individual Linux CM resources)
 
 ### Cybersecurity Engineer - Alion AFP (April 2021 - present)
   - Recommended and verified security remediations for a C# software suite.
   - Prepared SCMP and other documentation for DoD RMF compliance.
   - Administered project SVN repository, Project CM, and Backups.
+  - Created a tool to scrape Fortify SCAP findings from PDF reports to an actionable CSV tracker. 
 
 ### Systems Support - Alion AWS-3 Margins Analysis (June 2021)
   - Assisted the main developer by testing and benchmarking database optimizations.
@@ -56,13 +58,13 @@ larrybyrnemusic@gmail.com \
 
 ## Skills
   - Linux
+  - Pentesting
   - Python/C/Rust/Java/Go
-  - Docker/Podman/Kubernetes
-  - AWS EC2/ECS/Batch/EFS/S3
-  - ESXi/VMware/VirtualBox
+  - Kubernetes/Docker/Podman
+  - AWS EKS/EC2/ECS/Batch/EFS/S3
+  - ESXi/VMware/VirtualBox/KVM
   - Gitlab/Git/SVN
   - DevOps/DevSecOps/CI/CD
-  - Pentesting
   - Nessus/NeXpose
   - Nagios XI
   - Metasploit
