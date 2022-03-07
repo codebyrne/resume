@@ -27,13 +27,13 @@ larrybyrnemusic@gmail.com \
   - Renewed and deployed all in-house SSL certificates for critical public facing servers.
   - Admin for SVN, WebSVN, and CM Project Shares on Windows Server 2019 (migrated from individual Linux CM resources)
 
-### Cybersecurity Engineer - Alion AFP (April 2021 - present)
+### Cybersecurity Engineer - Alion AFP (April 2021 - January 2022)
   - Recommended and verified security remediations for a C# software suite.
   - Prepared SCMP and other documentation for DoD RMF compliance.
   - Administered project SVN repository, Project CM, and Backups.
-  - Created a tool to scrape Fortify SCAP findings from PDF reports to an actionable CSV tracker. 
+  - Created a tool to scrape Fortify SCAP findings from PDF reports to create an actionable CSV tracker. 
 
-### Systems Support - Alion AWS-3 Margins Analysis (June 2021)
+### Systems Support - Alion AWS-3 Margins Analysis (June 2021 - Present)
   - Assisted the main developer by testing and benchmarking database optimizations.
   - Tested and deployed various physical and virtual systems to keep the analysis running.
 
