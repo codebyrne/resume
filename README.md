@@ -1,43 +1,43 @@
 # Larry Byrne, OSCP
 ## Software - Cybersecurity - Systems Engineer
+## Huntington Ingalls Industries (HII)
 (443)-995-3532 \
 larrybyrnemusic@gmail.com \
 [codebyrne](https://github.com/codebyrne) on github
 
 ## Highlights
-  - Creative problem solver, semantic pedagogue, and team player
+  - Creative problem solver, consistent performer, and team player
   - Efficient communication skills based on careful listening
-  - 20+ years of technical experience
+  - 25+ years of technical experience
   - Linux SME
 
 ## Work Experience
 
-### Software Engineer - Alion RFsentry (March 2019 - present)
+### Software Engineer - HII RFsentry (March 2019 - present)
   - Managed the installation, configuration, and delivery of complete Spectrum Monitoring Systems.
-  - Prototyped several process algorithms, including SCPI sensor integration, LTE aggregate power Direction Finding,  multiple binary protocol parsers, and Python functions to manage I/Q data.
+  - Prototyped several process algorithms, including SCPI sensor integrations, LTE aggregate power Direction Finding,  multiple binary protocol parsers, and Python functions to manage I/Q data.
   - Performed full scope penetration testing and vulnerability assessment of local and cloud servers.
   - Provided software demos including 2021 EMSO Tools Symposium, PMR customer reviews, business development, and videos for use at trade shows.
 
-### Systems Administrator - Alion RESED Software Team (July 2019 - present)
-  - Administered the Gitlab DevOps server for the RESED Software Group.
+### Systems Administrator - HII C5ISR Spectrum Software Team (July 2019 - present)
+  - Administered the Gitlab DevOps server for the Spectrum Software Group.
   - Administered ESXi servers running a variety of VMs hosting public and internal resources.
   - Deployed DevOps platforms using AWS EC2 and EKS for distributed sub-contractors.
-  - Maintained and upgraded Docker deployed services throughout the RESED software team.
+  - Maintained and upgraded Docker deployed services throughout the Spectrum Software team.
   - Served as the liaison to infosec for vulnerability remediation, including NIST 800-171 compliance audit. 
   - Renewed and deployed all in-house SSL certificates for critical public facing servers.
-  - Admin for SVN, WebSVN, and CM Project Shares on Windows Server 2019 (migrated from individual Linux CM resources)
+  - Admin for SVN, and CM Project Shares on Windows Server
 
-### Cybersecurity Engineer - Alion AFP (April 2021 - January 2022)
+### Cybersecurity Engineer - HII AFP (April 2021 - January 2022)
   - Recommended and verified security remediations for a C# software suite.
   - Prepared SCMP and other documentation for DoD RMF compliance.
-  - Administered project SVN repository, Project CM, and Backups.
   - Created a tool to scrape Fortify SCAP findings from PDF reports to create an actionable CSV tracker. 
 
-### Systems Support - Alion AWS-3 Margins Analysis (June 2021 - Present)
-  - Assisted the main developer by testing and benchmarking database optimizations.
+### Systems Support - HII AWS-3 Margins Analysis (June 2021 - Jan 2023)
+  - Assisted the main developer by testing and benchmarking PostgreSQL resource optimizations.
   - Tested and deployed various physical and virtual systems to keep the analysis running.
 
-### Software Engineer - Alion Dish Networks MVDDS Analysis (April 2018 - February 2019)
+### Software Engineer - HII Dish Networks MVDDS Analysis (April 2018 - February 2019)
   - Managed all phases of a terrestrial RF propagation analysis, leveraging AWS Batch for distributed computing.
   - Developed an automated analysis validation process which reduced the validation time by 98.4%, from ~5m per analysis to ~5s.
   - Migrated the entire analysis, validation, packaging, and delivery cycle to the cloud for an additional delivery of over 8000 analyses.
