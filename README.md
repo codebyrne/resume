@@ -1,7 +1,7 @@
 # Larry Byrne, OSCP
 ## Software - Cybersecurity - Systems Engineer
 ## Huntington Ingalls Industries (HII)
-(443)-995-3532 \
+
 larrybyrnemusic@gmail.com \
 [codebyrne](https://github.com/codebyrne) on github
 
